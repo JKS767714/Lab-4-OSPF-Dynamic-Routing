@@ -12,7 +12,7 @@ The lab demonstrates OSPF neighbor formation, route advertisement, routing-table
 
 ## Network Topology
 
-![Lab 4 OSPF Topology](images/Lab4_OSPF_Topology.png)
+![Lab 4 OSPF Topology](images/Lab4-OSPF-Topology.png)
 
 The topology consists of three routers, three switches, and three LANs connected through two point-to-point router links.
 
