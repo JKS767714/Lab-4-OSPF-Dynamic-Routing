@@ -57,7 +57,7 @@ show ip ospf neighbor
 
 A neighbor state of **FULL** confirmed that the routers successfully formed an OSPF adjacency and exchanged routing information.
 
-![OSPF Neighbor](images/Lab4_OSPF_Neighbor.png)
+![OSPF Neighbor Adjacency](images/Lab4-OSPF-Neighbors.png)
 
 ---
 
@@ -81,7 +81,7 @@ For example, Router0 dynamically learned the remote VLAN 30 LAN:
 O 192.168.30.0/24 via 10.0.12.2
 ```
 
-![OSPF Routes](images/Lab4_OSPF_Routes.png)
+![OSPF Routing Table](images/Lab4-Show-IP-Route.png)
 
 ---
 
@@ -111,7 +111,8 @@ PC0 → Router0 → Router1 → Router2 → PC2
 
 and in the reverse direction.
 
-![End-to-End Ping](images/Lab4_End_to_End_Ping.png)
+![PC0 to PC2 Successful Ping](images/Lab4-PC0-Pings-PC2-Succesfully.png)
+![PC2 to PC0 Successful Ping](images/Lab4-PC2-Pings-PC0-Successfully.png)
 
 ---
 
